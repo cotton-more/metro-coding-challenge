@@ -1,0 +1,22 @@
+{
+    "name": "ivann/metro-coding",
+    "require": {
+        "php": "^7.4",
+        "monolog/monolog": "^2.3",
+        "php-di/php-di": "^6.3",
+        "phpunit/phpunit": "^9.5",
+        "symfony/console": "^5.4",
+        "symfony/var-dumper": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ivann\\MetroCoding\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Nikulin",
+            "email": "vansanblch@gmail.com"
+        }
+    ]
+}
